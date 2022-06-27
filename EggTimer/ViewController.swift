@@ -23,7 +23,7 @@ class ViewController: UIViewController {
     
     
     override func viewDidLoad() {
-        progressBar.progress = 0.0
+        progressBar.progress = 0
     }
     
     @IBAction func pressButton(_ sender: UIButton) {
